@@ -15,7 +15,7 @@ O objetivo deste desafio é criar uma aplicação que permita ao usuário conver
 ## Recursos Utilizados
 
 - **ExchangeRate-API:** API que fornece as taxas de câmbio em tempo real. A documentação pode ser encontrada em [ExchangeRate-API Docs](https://www.exchangerate-api.com/docs).
-- **Java 19:** Utilizei os conceitos de programação orientada a objetos e a linguagem de programação Java.
+- **Java 21:** Utilizei os conceitos de programação orientada a objetos e a linguagem de programação Java.
 
 ## Como Executar o Projeto
 
